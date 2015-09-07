@@ -57,7 +57,7 @@ int WINAPI WinMain(HINSTANCE hinst, HINSTANCE hPreInst,
 	hWnd = CreateWindowEx(
 		WS_EX_NOACTIVATE,
 		szClassName,
-		TEXT("何かボタンを押すとすべてのウィンドウを最小化"),
+		TEXT("Print Screen"),
 		WS_OVERLAPPEDWINDOW,
 		CW_USEDEFAULT,
 		0,
